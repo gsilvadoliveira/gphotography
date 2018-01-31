@@ -1,0 +1,27 @@
+body {
+	margin-left: 10%
+
+}
+
+img {
+	width: 42%;
+	/*float: left;*/
+	margin: 1.2%;
+	vertical-align: middle;
+	align-items: center;
+}
+
+/*#first {
+	width: 45%
+}*/
+
+p {
+	font-family: Raleway;
+	margin-left: 1.2%;
+	font-size: 30px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 5px solid #f1f1f1;
+	width: 86.8%;
+	padding-bottom: 10px;
+}
